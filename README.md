@@ -1,6 +1,6 @@
 # Women in the Olympics
 
-![women-and-the-olympic-games](Visualizations/cover-women-olympics.png)
+![women-and-the-olympic-games](imgs/cover-women-olympics.png)
 
 ## Our Questions
 
